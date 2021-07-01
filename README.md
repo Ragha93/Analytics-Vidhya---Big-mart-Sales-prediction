@@ -4,4 +4,4 @@ This repositry holds the codes and models that were used in Bigmart sales predic
 ## Used Anova, Chisquare, information gain, Correlation, Variance gain to select important features
 ## Problem type : Regression
 ## Algorithms used : Random Forest Regressor, XGboost Regressor, Gradient Boost Regressor, Adaptive Boost Regressor and Neural Network Regressor.
-## Best models in order: Randome Forest Regressor, Gradient Boost Regressor and Neural Network Regressor
+## Best models in order: Random Forest Regressor, Gradient Boost Regressor and Neural Network Regressor
